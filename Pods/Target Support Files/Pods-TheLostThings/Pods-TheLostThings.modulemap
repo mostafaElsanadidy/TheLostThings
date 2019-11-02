@@ -1,0 +1,6 @@
+framework module Pods_TheLostThings {
+  umbrella header "Pods-TheLostThings-umbrella.h"
+
+  export *
+  module * { export * }
+}

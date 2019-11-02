@@ -1,0 +1,20 @@
+PODS:
+  - IQKeyboardManager (6.4.2)
+  - RadioButton (1.0)
+
+DEPENDENCIES:
+  - IQKeyboardManager
+  - RadioButton
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - IQKeyboardManager
+    - RadioButton
+
+SPEC CHECKSUMS:
+  IQKeyboardManager: b41e0a4943fbac4c11a239d31a688667675f962e
+  RadioButton: 7ef053baf6ff0e7f9e777016c28e9ba4e330edba
+
+PODFILE CHECKSUM: d4f4dcdf50de24782d8239f4dca7743bb173d611
+
+COCOAPODS: 1.7.5
